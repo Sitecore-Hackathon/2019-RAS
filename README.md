@@ -1,14 +1,16 @@
 ![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
 
-# Submission Boilerplate
+# Submission Details
 
 Welcome to Sitecore Hackathon 2019.
 
 The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hackathon-2019/
 
-Module Sitecore Hackathon Category: Best enhancement to the Sitecore Admin (XP) UI for Content Editors & Marketers
+Module Sitecore Hackathon Category: 
+	Best enhancement to the Sitecore Admin (XP) UI for Content Editors & Marketers
 
-Module Purpose: Bring capabilities to take screen shot of Sitecore content editor and experience editor environment.
+Module Purpose: 
+	Bring capabilities to take screen shot of Sitecore content editor and experience editor environment.
 
 How to use :
 	Install the Sitecore package "SitecoreScreenShot Module-1.0.zip" available in "sc.package" folder.
